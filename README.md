@@ -28,3 +28,5 @@
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theootto&layout=compact)
+
+![Snake animation](https://github.com/theootto/theootto/blob/output/github-contribution-grid-snake.svg)
