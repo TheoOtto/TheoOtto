@@ -28,4 +28,4 @@
 ##
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=TheoOtto&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/?username=TheoOtto&layout=compact)
