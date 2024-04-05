@@ -29,3 +29,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theootto&layout=donut)](https://github.com/theootto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theootto&layout=donut)](https://github.com/theootto/github-readme-stats)
+
