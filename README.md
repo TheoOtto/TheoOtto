@@ -1,4 +1,4 @@
-### Olá, eu sou Theo Otto, programador Fullstack
+### Olá, eu sou Theo Otto, um jovem apaixonado por desenvolvimento de software.
 
 ##
 
